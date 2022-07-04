@@ -1,4 +1,4 @@
-## Olá! eu sou o rafel magalhaes 👋
+## Olá! eu sou o rafael magalhaes 👋
 
 - 🔭 estudante front-end ...
  
